@@ -7,3 +7,15 @@
 //
 
 import Foundation
+import UIKit
+
+class RestaurantModel {
+    
+    var restaurantName : String = ""
+    var openingHours : String = ""
+    var latitude : Float = 0
+    var longitude : Float = 0
+    
+    
+    
+}
